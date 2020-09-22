@@ -14,8 +14,11 @@ It is designed to have a responsive UI, meaning It can work in most mobile devic
 
 **GIPHs**
 ---
+> **Search Filter**
 ![Search Filter](img/2.gif)
+> **Responsive UI Demo**
 ![Responsive UI Demo](img/3.gif)
+> **Cateogry-wise Filtering**
 ![Cateogry-wise Filtering](img/4.gif)
 **Acknowledgements**
 ---
