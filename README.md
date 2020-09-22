@@ -2,13 +2,13 @@
 
 ![GIF demo](img/1.gif)
 
-It is designed to have a responsive UI, meaning It can work in most mobile devices (Without having to redefine all size parameters) It is developed ny keeping in mind the Desktop Environment as Well (Tested with Linux | Windows Machine).
+It is designed to have a responsive UI, meaning It can work in most mobile devices (Without having to redefine all size parameters) It is developed by keeping in mind the Desktop Environment as Well (Tested with Linux | Windows Machine :computer:).
 
-**Usage**
+**Usage :collision:**
 ---
 > This  application can be further developed into making a Shopping Application
 
-**Widget Tree**
+**Widget Tree :thought_balloon:**
 ---
 ![Widget Tree](img/widgetTree.bmp)
 
