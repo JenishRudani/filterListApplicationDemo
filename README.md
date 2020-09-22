@@ -1,16 +1,24 @@
-# filterListApplicationDemo
+`filterListApplicationDemo` is a demo application, which can be further developed into a shopping application.
 
-A new Flutter project.
+![GIF demo](img/1.gif)
 
-## Getting Started
+It is designed to have a responsive UI, meaning It can work in most mobile devices (Without having to redefine all size parameters) It is developed ny keeping in mind the Desktop Environment as Well (Tested with Linux | Windows Machine).
 
-This project is a starting point for a Flutter application.
+**Usage**
+---
+> This  application can be further developed into making a Shopping Application
 
-A few resources to get you started if this is your first Flutter project:
+**Widget Tree**
+---
+![Widget Tree](img/widgetTree.bmp)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**GIPHs**
+---
+![Search Filter](img/2.gif)
+![Responsive UI Demo](img/3.gif)
+![Cateogry-wise Filtering](img/4.gif)
+**Acknowledgements**
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
++ [Sample App For Infinite List From Flutter](https://github.com/flutter/samples/tree/master/infinite_list)  
++ Thank You for giving us a way to design an Application Source Code, which can more or less can be used on virtually any platform.
